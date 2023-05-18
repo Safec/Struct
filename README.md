@@ -1,4 +1,4 @@
-<h1 align="center">Light Tips</h1>
+<h1 align="center">Light Tips.</h1>
 
 <p align="center">
 <a href="https://github.com/xx19941215/webBlog"><img src="https://img.shields.io/github/forks/xx19941215/webBlog.svg"></a>
